@@ -3,7 +3,7 @@
 
 ## Up Next
 
-* [Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+* [Man-Computer Symbiosis](http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf)
 
 
 ## Potentials
