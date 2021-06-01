@@ -11,6 +11,7 @@
 * [Propositions as Types](https://jgbm.github.io/eecs762f19/papers/wadler-ch.pdf)
 * [As We May Think](http://web.mit.edu/STS.035/www/PDFs/think.pdf)
 * [Linear Types Can Change The World!](https://homepages.inf.ed.ac.uk/wadler/papers/linear/linear.ps)
+  * Or some other paper from [Wadler's linear logic collection](https://homepages.inf.ed.ac.uk/wadler/topics/linear-logic.html), e.g. [A Taste of Linear Logic](https://homepages.inf.ed.ac.uk/wadler/papers/lineartaste/lineartaste-revised.pdf)?
 * [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
 
 ## Read
