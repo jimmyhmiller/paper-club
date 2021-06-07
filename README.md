@@ -10,6 +10,7 @@
 
 * [As We May Think](http://web.mit.edu/STS.035/www/PDFs/think.pdf)
 * [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
+* [Structure of a Programming Language Revolution](https://www.dreamsongs.com/Files/Incommensurability.pdf)
 
 ## Read
 
