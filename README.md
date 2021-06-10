@@ -11,6 +11,9 @@
 * [As We May Think](http://web.mit.edu/STS.035/www/PDFs/think.pdf)
 * [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm) ([pdf](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf))
 * [Structure of a Programming Language Revolution](https://www.dreamsongs.com/Files/Incommensurability.pdf)
+* [Programming as Theory Building](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
+* [The Early History of Smalltalk](http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html)
+* [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 
 ## Read
 
