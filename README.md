@@ -14,7 +14,7 @@
 * [Programming as Theory Building](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 * [The Early History of Smalltalk](http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html)
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
-* [Data types à la carte](www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
+* [Data types à la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
 
 ## Read
 
